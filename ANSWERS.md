@@ -1,0 +1,4 @@
+Proptypes are used to check our react applications for errors and is set up to prevent useres from entering specified informaton. ex. no letters in your date of birth.
+it contains 3 phases - Mounting, Updating, and Un-mounting. every time a phase is invoked the DOM renders again with the new changes set by these phases. 
+HOC is a component that recieves a component as its argument. It is used to share functionality between components. some examples of this are Array.map(), Array.filter(), and Array.reduce()
+a. {using styled-components} b. {plain javascript css} c. {setting style={variable} on the element and declaring that variable outside of the class. and filling it with plain css.}
